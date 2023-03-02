@@ -23,6 +23,7 @@ Desta forma eu sigo tomando meu café em doses homeopáticas enquanto estudo. <b
 
 ## Tecnologias e Ferramentas
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="PYTHON" height="45px"/></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="45px"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="JUPYTER NOTEBOOK" height="45px"/></code> 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="SELENIUM" height="45px"/></code>
 
