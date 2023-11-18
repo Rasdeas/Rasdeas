@@ -1,4 +1,4 @@
-# Lauro Araújo
+# Lauro Ramos de Araújo
 
 <div display="inline-block">
  
@@ -8,17 +8,15 @@
  
 </div>
 
-
 ## Bom dia, boa tarde e boa noite!
 Sou um baiano que toma café até nos dias mais quentes e que nunca sabe o que escrever no próprio perfil. <br>
 Desta forma eu sigo tomando meu café, dia após dia, enquanto estudo e continuo pensando no que escrever aqui. <br>
 <br>
 
 
+
 ## Tecnologias e Ferramentas
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="45px"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="PYTHON" height="45px"/></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="SELENIUM" height="45px"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" height="45px"/></code>
 
 ## Estudando
