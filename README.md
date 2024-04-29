@@ -9,21 +9,19 @@
 </div>
 
 ## Bom dia, boa tarde e boa noite!
-Sou um baiano que toma café até nos dias mais quentes e que nunca sabe o que escrever no próprio perfil. <br>
-Desta forma eu sigo tomando meu café, dia após dia, enquanto estudo e continuo pensando no que escrever aqui. <br>
+Sou um baiano morando fora da Bahia (e do Brasil), que toma café até nos dias mais quentes e que nunca sabe o que escrever no próprio perfil. <br>
+Enquanto não descubro o que escrever aqui sigo tomando meu café, estudando e (sempre que lembro) atualizando meu GitHub. <br>
 <br>
 
 
-
 ## Tecnologias e Ferramentas
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="45px"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" height="45px"/></code>
-
-## Estudando
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="POSTGRESQL" height="45px"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="LARAVEL" height="45px"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" title="VUEJS" height="45px"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="BOOTSTRAP" height="45px"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" height="45px"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="LARAVEL" height="45px"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-plain.svg" title="VUEJS" height="45px"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MYSQL" height="45px"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" title="POSTGRESQL" height="45px"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="BOOTSTRAP" height="45px"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="TAILWINDCSS" height="45px"/></code>
 
 ## Pretendo estudar em breve
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="DOCKER" height="45px"/></code>
